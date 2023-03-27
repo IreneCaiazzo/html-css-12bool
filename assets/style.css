@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.col{
+    background-color: #006AF9;
+    height: 35px;
+    border: 1px solid white;
+}
+
+.row .last{
+    margin-bottom: 1rem;
+}
